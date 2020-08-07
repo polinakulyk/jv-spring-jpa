@@ -1,0 +1,2 @@
+# jv-spring-jpa
+Following the official Spring guide to an application that stores Customer POJOs (Plain Old Java Objects) in a memory-based database. Source: https://spring.io/guides/gs/accessing-data-jpa/
